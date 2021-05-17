@@ -1,2 +1,2 @@
-# Shape-ai
-Python and deep learning
+# Abu Anas
+Basic python and deep learning. SHAPE_AI 
